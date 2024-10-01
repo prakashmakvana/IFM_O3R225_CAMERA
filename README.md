@@ -18,3 +18,6 @@ This repository provides tools to interface with the **IFM O3R225** 3D camera, a
 - [Open3D](http://www.open3d.org/) (for 3D visualization)
 - [IFM3D](https://github.com/ifm/ifm3d) (for camera communication)
 - [NumPy](https://numpy.org/) (for array manipulation)
+
+### References
+- ArUco marker: https://www.youtube.com/watch?v=bS00Vs09Upw
