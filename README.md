@@ -20,4 +20,5 @@ This repository provides tools to interface with the **IFM O3R225** 3D camera, a
 - [NumPy](https://numpy.org/) (for array manipulation)
 
 ### References
-- ArUco marker: https://www.youtube.com/watch?v=bS00Vs09Upw
+- ArUco marker: (https://www.youtube.com/watch?v=bS00Vs09Upw, https://pure.tue.nl/ws/portalfiles/portal/212917849/1253174_Accuracy_of_Single_Camera_Pose_Estimation.pdf)
+                  
