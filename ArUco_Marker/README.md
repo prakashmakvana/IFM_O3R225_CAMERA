@@ -23,4 +23,5 @@ pip install opencv-python numpy ifm3dpy
 ```
 ## References
 
-    ArUco marker: (https://www.youtube.com/watch?v=bS00Vs09Upw, https://pure.tue.nl/ws/portalfiles/portal/212917849/1253174_Accuracy_of_Single_Camera_Pose_Estimation.pdf)
+    ArUco marker: (https://www.youtube.com/watch?v=bS00Vs09Upw, 
+                   https://pure.tue.nl/ws/portalfiles/portal/212917849/1253174_Accuracy_of_Single_Camera_Pose_Estimation.pdf)
