@@ -21,4 +21,6 @@ This repository provides tools to interface with the **IFM O3R225** 3D camera, a
 
 ### References
 - ArUco marker: (https://www.youtube.com/watch?v=bS00Vs09Upw, https://pure.tue.nl/ws/portalfiles/portal/212917849/1253174_Accuracy_of_Single_Camera_Pose_Estimation.pdf)
+
+- Stereo Calibration: (https://www.ni.com/docs/de-DE/bundle/ni-vision-concepts-help/page/stereo_calibration_in-depth.html?srsltid=AfmBOooXUVoYzRPKjtGWuq2LCdiaAvvwKLWu2E0Fw-QIydcWZEeFLdzg)
                   
