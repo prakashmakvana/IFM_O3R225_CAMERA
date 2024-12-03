@@ -26,3 +26,4 @@ This repository provides tools to interface with the **IFM O3R225** 3D camera, a
 
 - Bird's Eye View Transformation: https://www.ijser.org/researchpaper/A-Simple-Birds-Eye-View-Transformation-Technique.pdf
                                   https://developer.ridgerun.com/wiki/index.php/Birds_Eye_View/Introduction/Research
+                                  https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1219363/full
